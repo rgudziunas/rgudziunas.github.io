@@ -1,0 +1,23 @@
+.header{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+
+a{
+    color:rgb(173, 255, 47);
+    font-size:50px;
+}
+a:hover{
+    color: black;
+}
+
+ul{
+    text-align: left;
+}
+
+.ID{
+    color: #B2D732;
+    font-size: 25px;
+    text-align: right;
+}

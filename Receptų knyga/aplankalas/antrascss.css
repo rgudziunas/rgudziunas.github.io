@@ -1,0 +1,48 @@
+h1{
+    color:black;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Comic Sans MS" , cursive, sans-serif;
+}
+
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 1200px;
+    height: 300px;
+    
+  
+}
+
+th{
+    height: 100px;
+    width: fit-content;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+td{
+    height: 100px;
+    font-size: 150px;
+}
+body{
+    font-size: 30px;
+    background-color: #ffffcc;
+}
+a{
+    color:rgb(173, 255, 47);
+    font-size:50px;
+    text-decoration: wavy;
+    text-align: left;
+    vertical-align: bottom;
+}
+a:hover{
+    color: black;
+}
+.ID{
+    vertical-align: bottom;
+    color: #B2D732;
+    font-size: 25px;
+    text-align: right;
+}

@@ -1,0 +1,21 @@
+h1{
+    color:black;
+    text-align: center;
+    font-size: 150px;
+    font-family: "Comic Sans MS" , cursive, sans-serif;
+}
+.ID{
+    color: #B2D732;
+    font-size: 25px;
+    text-align: right;
+}
+a{
+    color:rgb(173, 255, 47);
+    font-size:50px;
+    text-decoration: wavy;
+    vertical-align: bottom;
+    text-align: left;
+}
+a:hover{
+    color: black;
+}
