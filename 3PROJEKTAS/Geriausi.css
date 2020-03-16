@@ -1,0 +1,46 @@
+body{
+    background-color: #222930;
+}
+.titulinis
+{
+    background-color: #E9E9E9;
+    height: 100PX;
+    padding-top: 10px;
+    text-align: justify;
+
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+table{
+    border-collapse: separate;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: larger;
+    font-style: oblique;
+    text-align: start;
+    border-spacing: 10px;
+    font-variant: normal;
+    background-color: #4EB1BA;
+    text-align: right;
+    color: white;
+    width: 100%;
+    height: 100px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-top: 0%;
+   
+    
+  
+}
+
+.txt{
+    font-size: 50px;
+    color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
